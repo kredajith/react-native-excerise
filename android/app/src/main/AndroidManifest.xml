@@ -12,7 +12,7 @@
       android:supportsRtl="true">
       <meta-data
       android:name="com.google.android.geo.API_KEY"
-      android:value="AIzaSyB3zZd9Dbs9mvwJCQ7riQGgdd1-GjLkmS0"/>
+      android:value="your_real_api_key_here"/>
 
       <activity
         android:name=".MainActivity"
